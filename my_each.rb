@@ -8,5 +8,5 @@ def my_each(collection)
 end
 
 my_each(collection) do |number|
-  "number"
+  "#{number}"
 end
